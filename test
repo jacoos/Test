@@ -1,0 +1,4 @@
+//AS3 test code
+
+trace("Hello world");
+//Hello world
